@@ -1,0 +1,4 @@
+baseURL = 'https://andykitson.com/'
+languageCode = 'en-us'
+title = "andy kitson"
+theme = "PaperMod"
